@@ -1,0 +1,22 @@
+/*Header NavBar*/
+
+/*MAIN*/
+main{
+    min-height: 80vh;
+}
+
+/*footer*/
+footer{
+    width: 100vw;
+    height: 40vh;
+    background-color:var(--bs-dark);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+footer .copy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
